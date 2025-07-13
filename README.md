@@ -260,6 +260,4 @@ git remote -v
 
 ---
 
-If you want, I can generate a **custom PDF cheatsheet** or a **step-by-step guide for your resume projects.**
 
-Let me know!
